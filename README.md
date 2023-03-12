@@ -14,7 +14,7 @@ pip install boolean_question
 or install the latest master branch
 
 ```bash
-pip install git+https://github.com/Saadmairaj/boolean-question
+pip install git+https://github.com/angadbawa/Ai-planet
 ```
 
 ## Usage
