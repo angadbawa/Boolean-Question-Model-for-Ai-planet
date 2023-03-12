@@ -1,9 +1,5 @@
 # Boolean Question
 
-[![PyPI](https://img.shields.io/pypi/v/boolean_question)](https://pypi.org/project/boolean_question)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSaadmairaj%2Fboolean-question&count_bg=%23A389F1&title_bg=%23555555&icon=pytorch.svg&icon_color=%23E7E7E7&title=welcomed&edge_flat=false)](https://hits.seeyoufarm.com)
-[![CodeFactor](https://www.codefactor.io/repository/github/saadmairaj/boolean-question/badge/master)](https://www.codefactor.io/repository/github/saadmairaj/boolean-question/overview/master)
-[![Downloads](https://pepy.tech/badge/boolean_question)](https://pepy.tech/project/boolean_question)
 
 Get accurate answer prediction for True / False question using this python pytorch model. The model takes a passage and question as input and returns either "True" or "False" as predicted answer. Model used is [RoBERTa](https://arxiv.org/abs/1907.11692) that is further trained on [BoolQ](https://arxiv.org/abs/1905.10044) dataset.
 
