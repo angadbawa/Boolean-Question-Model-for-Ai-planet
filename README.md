@@ -5,16 +5,10 @@ Get accurate answer prediction for True / False question using this python pytor
 
 ## Installation
 
-Install it with python package installer pip
+Install it with the latest master branch
 
 ```bash
-pip install boolean_question
-```
-
-or install the latest master branch
-
-```bash
-pip install git+https://github.com/angadbawa/Ai-planet
+pip install git+https://github.com/angadbawa/Boolean-Question-Model-for-Ai-planet
 ```
 
 ## Usage
